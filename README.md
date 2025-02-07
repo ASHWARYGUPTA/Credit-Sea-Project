@@ -1,7 +1,8 @@
 This is an Assigment Website for Credit Sea (https://www.creditsea.com/)
-[Screencast_20250207_114059.webm](https://github.com/user-attachments/assets/9a807593-b95a-4410-82e2-be8537b84813)
 
 Watch The Video Below For Working
+
+[Screencast_20250207_114059.webm](https://github.com/user-attachments/assets/9a807593-b95a-4410-82e2-be8537b84813)
 
 
 
