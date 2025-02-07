@@ -1,6 +1,12 @@
 This is an Assigment Website for Credit Sea (https://www.creditsea.com/)
 
+
+
+
 Some Screen Shorts of Working Model
+
+/dashboard When Not Logged In
+![image](https://github.com/user-attachments/assets/cffc73c7-965c-4aa7-bd3c-8b8508c1218e)
 
 ![image](https://github.com/user-attachments/assets/918c9214-879b-42b7-8668-158581149289)
 
